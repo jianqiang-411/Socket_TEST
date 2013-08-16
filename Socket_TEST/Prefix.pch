@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'Socket_TEST' target in the 'Socket_TEST' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+	#import <UIKit/UIKit.h>
+#endif
